@@ -1,0 +1,191 @@
+* {
+    margin: o;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+
+    /* padding: 66px 57px 130px 156px; */
+    padding: 0 56px 0 156px;
+    display: flex;
+    gap: 360px;
+    /* background: #fdf2f2; */
+    background-image: url(/Image/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+
+header img {
+    width: 490px;
+    height: 503px;
+    left: 723px;
+    top: 66px;
+}
+
+.heading-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    width: 524px;
+    height: 237px;
+}
+
+.heading_des {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    width: 471px;
+    /* height: px; */
+   
+}
+
+.btn-orange {
+    background-color: #FF5959;
+    padding: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* First section */
+.first-sec {
+    margin: 0 338px 0 338px;
+}
+
+.sec-1-title {
+    font-size: 700;
+    font-size: 45px;
+    text-align: center;
+    color: #121212;
+}
+
+.sec-1-des {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    text-align: center;
+}
+
+
+.amount-list {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+
+
+}
+
+.amount-list li {
+    list-style: none;
+    margin-right: 59px;
+
+}
+
+.amount-list .select {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    padding: 44px 23px 43px 23px;
+
+}
+
+.center {
+    text-align: center;
+}
+
+/* section 2 */
+.sec-2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 12px;
+}
+
+.item {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    padding: 63.5px 22px 54px 23px;
+}
+
+/* sec -3 */
+.same {
+    margin: 0 153px 0 153px;
+}
+
+.sec-3 {
+    display: flex;
+    gap: 94px;
+    margin-top: 130.5px;
+    justify-items: center;
+}
+
+.item-1 {
+    width: 482px;
+    height: 374px;
+    margin-top: 70px;
+}
+
+.item-1-des {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+/* sec-4 */
+.sec-4 {
+    margin: 130px 315px;
+}
+
+.first-item {
+    text-align: center;
+}
+
+.sec-4-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+}
+
+.sec-4-des {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+.secound-item {
+    background-color: #FFF4D6;
+    padding: 76px 196px;
+}
+
+.secound-item input {
+    width: 275px;
+    height: 48px;
+    padding: 0 15px;
+    border: none;
+
+}
+
+.secound-item button {
+    width: 157px;
+    height: 48px;
+}
+
+/* fotterr */
+.last {
+    padding: 43px 653px;
+    background-color: #0B0D17;
+    text-align: center;
+}
+
+.last-title {
+    font-family: 'Lobster';
+    color: #FF5959;
+    font-size: 36px;
+}
+
+.last-des {
+
+    font-weight: 400;
+    font-size: 14px;
+    color: #D9DBE1;
+
+}
